@@ -108,9 +108,11 @@ The system provides detailed logging at each step:
 
 ## Screenshots 📸
 
+### Web Interface
 ```markdown
-![The UI from where you will automate the light bulb to light up remotely](embedded.png)
+![The UI from where you will automate the light bulb to ](./screenshots/embedded.png)
 ```
+
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
