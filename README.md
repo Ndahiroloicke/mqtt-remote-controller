@@ -109,9 +109,9 @@ The system provides detailed logging at each step:
 ## Screenshots 📸
 
 ### Web Interface
-```markdown
+
 ![The UI from where you will automate the light bulb to ](./embedded.png)
-```
+
 
 ## License 📄
 
